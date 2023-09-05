@@ -1,2 +1,2 @@
 # DMS
-unix/liux登入数据采集系统
+unix/linux登入数据采集系统
